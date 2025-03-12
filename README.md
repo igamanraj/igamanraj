@@ -1,26 +1,70 @@
-<h1 align="center">Hi 👋, I'm AMAN RAIDAS</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+# 🐱 Aman Raidas
+[![Header](https://public-aman.s3.us-east-1.amazonaws.com/readme_header.png)](https://public-aman.s3.us-east-1.amazonaws.com/readme_header.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=igamanraj&label=Profile%20views&color=0e75b6&style=flat" alt="igamanraj" /> </p>
+## 🚀 About Me:
 
-<p align="left"> <a href="https://twitter.com/ig__aman_raj" target="blank"><img src="https://img.shields.io/twitter/follow/ig__aman_raj?logo=twitter&style=for-the-badge" alt="ig__aman_raj" /></a> </p>
+💼 **I'm currently working on:**
+  Fullstack web development.
 
-- 🌱 I’m currently learning **Javascript**
+📈 **I'm looking to collaborate on:**
+  Fullstack projects.
 
-- 📫 How to reach me **amanra812727@gmail.com**
+🍃 **I'm currently learning:**
+  Advanced AWS Services and PostgressSQL.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ig__aman_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ig__aman_raj" height="30" width="40" /></a>
-<a href="https://instagram.com/ig__aman_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig__aman_raj" height="30" width="40" /></a>
-</p>
+💬 **Ask me about:**
+  JavaScript, React, Node.js, AWS, and any general web development questions.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+⚡ **Fun fact:**
+  I love learning new things.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/amanra"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="amanra" /></a></p><br><br>
+## 🌐 Socials:
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/igamanraj)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ig__aman_raj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aman-raidas-63733623b/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanra812727cscscsd@gmail.com)
+<!-- [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-%23F58025.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/) -->
+![Profile Views](https://komarev.com/ghpvc/?username=igamanraj&label=Profile%20Views&color=blue&style=for-the-badge)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=igamanraj&show_icons=true&locale=en&layout=compact" alt="igamanraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=igamanraj&" alt="igamanraj" /></p>
+## 🛠 Tech Stack:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![REACT](https://img.shields.io/badge/react-%233c3c3c?style=for-the-badge&logo=react&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%233c3c3c?style=for-the-badge&logo=express&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FB8C00?style=for-the-badge&logo=amazon&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000?style=for-the-badge&logo=npm&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%23010101.svg?style=for-the-badge&logo=render&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-%23429988.svg?style=for-the-badge&logo=greensock&logoColor=white)
+![Giphy](https://img.shields.io/badge/Giphy-bdbbbb?style=for-the-badge&logo=giphy&logoColor=black)
+![REACT-ROUTER](https://img.shields.io/badge/react_router-%23CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23019974.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
+
+<!-- ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) -->
+<!-- ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white) -->
+<!-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) -->
+<!-- ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) -->
+<!-- ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white) -->
+<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white) -->
+<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
+<!-- ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) -->
+
+### 🎯 Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igamanraj&layout=compact&theme=dark)](https://github-readme-stats.vercel.app/api/top-langs/?username=igamanraj&layout=compact&theme=dark)
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igamanraj&show_icons=true&theme=dark)
+
+### 🔥 GitHub Streak:
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=igamanraj&theme=dark)](https://nirzak-streak-stats.vercel.app?user=igamanraj&theme=dark)
+
