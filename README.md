@@ -7,14 +7,20 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=igamanraj.igamanraj" alt="visitors"/>
 </p>
 
-[![Header](src/Main/bg.gif)](src/Main/bg.gif)
+<div align="center">
+  <img src="src/Main/bg.gif" alt="Background Image" width="50%"/>
+</div>
 
-###### <b>I write code, break stuff, then fix it like it never happened. Been doing it long enough to know Stack Overflow is basically family. <br> <br> If I’m not debugging, I’m probably pretending my code will run on the first try (it won’t). Just here building cool things, one late-night commit at a time.</b>
+<div align="center">
 
+###### <b>I write code, break stuff, then fix it like it never happened. Been doing it long enough to know Stack Overflow is basically family. <br> <br> If I’m not debugging, I’m probably pretending my code will run on the first try (it won’t). <br> <br> Just here building cool things, one late-night commit at a time.</b>
+
+</div>
 
 &nbsp;<div align="center">
 ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vkmaynbtnf7sxqkckqulb2c7hq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)
 </div>
+
 ## 🚀 About Me:
 
 💼 **I'm currently working on:**
@@ -29,8 +35,8 @@ Advanced AWS Services and PostgressSQL.
 💬 **Ask me about:**
 JavaScript, React, Node.js, AWS, and any general web development questions.
 
-⚡ **Fun fact:**
-I love learning new things.
+
+
 
 <!-- ## 🌐 Socials:
 
