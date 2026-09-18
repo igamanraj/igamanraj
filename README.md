@@ -190,7 +190,7 @@ JavaScript, React, Node.js, AWS, and any general web development questions.
 &nbsp;<div align="center">
 [![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://naman.codes/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igamanraj/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amanra812727@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=amanra812727@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/igamanraj)
 [![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](./src/Resume/AmanResume.pdf)
 
