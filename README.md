@@ -1,6 +1,7 @@
 <div align="center">
 
 [![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
+
 </div>
 
 <p align="center">
@@ -37,9 +38,6 @@ Advanced AWS Services and PostgressSQL.
 
 💬 **Ask me about:**
 JavaScript, React, Node.js, AWS, and any general web development questions.
-
-
-
 
 <!-- ## 🌐 Socials:
 
@@ -144,7 +142,6 @@ JavaScript, React, Node.js, AWS, and any general web development questions.
   </tr>
 </table>
 
-
 <!-- ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -177,21 +174,23 @@ JavaScript, React, Node.js, AWS, and any general web development questions.
 ## 📈 GitHub Activity Graph:
 
 &nbsp;
+
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=igamanraj&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180" /> &nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=igamanraj&theme=github_dark" alt="GitHub Streak" height="180" />
-</div>
-&nbsp;
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=igamanraj&layout=compact&theme=github_dark" alt="Most Used Languages" height="180" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=igamanraj&show_icons=true&theme=github_dark" alt="GitHub Stats"  />
+  
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=igamanraj&theme=github_dark" alt="GitHub Streak"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=igamanraj&layout=compact&theme=github_dark" alt="Most Used Languages"  />
+</div>
 
 ## 📫 Connect with me:
+
 &nbsp;<div align="center">
 [![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://naman.codes/)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igamanraj/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amanra812727@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/igamanraj)
 [![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](./src/Resume/AmanResume.pdf)
-![DUB Downloads](https://img.shields.io/dub/dd/download?style=social&logo=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F507665%2Fdownload)
+
