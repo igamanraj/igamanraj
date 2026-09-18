@@ -1,3 +1,8 @@
+<div align="center">
+
+[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)
+</div>
+
 <p align="center">
     <a href="https://github.com/igamanraj/igamanraj"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-20.x-339933?style=flat&logo=node.js"></a>
@@ -8,7 +13,7 @@
 </p>
 
 <div align="center">
-  <img src="src/Main/bg.gif" alt="Background Image" width="50%"/>
+  <img src="src/Main/header_.png" alt="Background Image"/>
 </div>
 
 <div align="center">
@@ -17,9 +22,7 @@
 
 </div>
 
-&nbsp;<div align="center">
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vkmaynbtnf7sxqkckqulb2c7hq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false)
-</div>
+&nbsp;
 
 ## 🚀 About Me:
 
@@ -48,7 +51,7 @@ JavaScript, React, Node.js, AWS, and any general web development questions.
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=igamanraj&label=Profile%20Views&color=blue&style=for-the-badge)  -->
 
-## 🛠 Tech Stack:
+## 🛠 Favorite Tech :
 
 <table>
   <tr>
@@ -171,23 +174,24 @@ JavaScript, React, Node.js, AWS, and any general web development questions.
 <!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 <!-- ![ElasticSearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) -->
 
-### 🎯 Most Used Languages:
+## 📈 GitHub Activity Graph:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igamanraj&theme=tokyonight)
-
-
-### 📊 My GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igamanraj&show_icons=true&theme=dark)
-
-### 🔥 GitHub Streak:
-![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=igamanraj&theme=dark)
+&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=igamanraj&show_icons=true&theme=github_dark" alt="GitHub Stats" height="180" /> &nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=igamanraj&theme=github_dark" alt="GitHub Streak" height="180" />
+</div>
+&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=igamanraj&layout=compact&theme=github_dark" alt="Most Used Languages" height="180" />
+</div>
 
 
 ## 📫 Connect with me:
 &nbsp;<div align="center">
 [![Portfolio](https://img.shields.io/badge/-Portfolio-555?style=flat&logo=web&logoColor=white)](https://naman.codes/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555?style=flat&logo=linkedin)](https://www.linkedin.com/in/igamanraj/)
-[![Email](https://img.shields.io/badge/-Email-555?style=flat&logo=gmail)](mailto:amanra812727@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)](https://github.com/igamanraj)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igamanraj/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amanra812727@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/igamanraj)
 [![Resume](https://img.shields.io/badge/-Download%20Resume-555?style=flat&logo=document&logoColor=white)](./src/Resume/AmanResume.pdf)
+![DUB Downloads](https://img.shields.io/dub/dd/download?style=social&logo=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F507665%2Fdownload)
